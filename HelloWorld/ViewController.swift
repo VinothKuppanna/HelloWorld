@@ -29,6 +29,10 @@ class ViewController: UIViewController {
     func simlealert3() {
         print("My Alert3")
     }
+    
+    func simlealert4() {
+        print("My Alert4")
+    }
 
 
 }
